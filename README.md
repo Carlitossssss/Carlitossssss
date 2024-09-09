@@ -1,4 +1,4 @@
-# Hola, soy Jose Carlos Carballo Fernande 👋
+# Hola, soy Jose Carlos Carballo Fernandez 👋
 
 Soy un estudiante de Ingeniería de Sistemas Informáticos con una pasión por el desarrollo de software y la tecnología blockchain. Aunque todavía estoy en la universidad, ya he adquirido una sólida base de habilidades técnicas y he trabajado en varios proyectos interesantes.
 
