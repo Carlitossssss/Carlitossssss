@@ -34,73 +34,21 @@
 </p>
 
 <p align="center">
-  Soy un desarrollador de software y estudiante de Ingeniería de Sistemas Informáticos, con una sólida formación técnica y un profundo interés en tecnologías emergentes como blockchain. Me apasiona crear soluciones innovadoras utilizando una variedad de herramientas tecnológicas.
+  Soy un estudiante de Ingeniería de Sistemas Informáticos, con una formación técnica y un profundo interés en tecnologías emergentes como blockchain.
 </p>
 
 ---
 
 ## 🌟 Sobre mí
 
-Soy un entusiasta del desarrollo de software con experiencia en **desarrollo web**, **blockchain**, y **aplicaciones móviles**. Me dedico al aprendizaje continuo de tecnologías de vanguardia y a mejorar mis habilidades en lenguajes de programación como **Solidity** y **Rust**, que son fundamentales para mi incursión en el desarrollo de contratos inteligentes y tecnologías descentralizadas.
-
----
-
-## 🛠️ Habilidades Técnicas
-
-- **Lenguajes de programación:** 
-  - [JavaScript](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
-  - [Python](https://www.python.org/doc/)
-  - [Solidity](https://docs.soliditylang.org/)
-  - [Rust](https://doc.rust-lang.org/)
-- **Frontend:**
-  - [HTML](https://developer.mozilla.org/en-US/docs/Web/HTML)
-  - [CSS](https://developer.mozilla.org/en-US/docs/Web/CSS)
-  - [React](https://reactjs.org/docs/getting-started.html)
-  - [Next.js](https://nextjs.org/docs)
-  - [Tailwind CSS](https://tailwindcss.com/docs)
-- **Backend y servidores:** 
-  - [Node.js](https://nodejs.org/en/docs/)
-  - [Django](https://docs.djangoproject.com/)
-- **Blockchain:** 
-  - [Solidity](https://docs.soliditylang.org/)
-  - Contratos inteligentes
-- **Control de versiones y colaboración:**
-  - [Git](https://git-scm.com/doc)
-  - [GitHub](https://docs.github.com/)
-- **Herramientas de desarrollo:** 
-  - [VS Code](https://code.visualstudio.com/docs)
-
----
-
-## 🚀 Proyectos Destacados
-
-### 1. **Aplicación Web Descentralizada en Blockchain**
-- **Tecnologías:** Solidity, React, Node.js
-- Desarrollé una DApp (Aplicación Web Descentralizada) que utiliza contratos inteligentes en Solidity para gestionar un sistema de votación seguro y transparente. Implementé la interfaz en React, conectando la blockchain a través de Web3.js.
-
-### 2. **Análisis de Datos con Python**
-- **Tecnologías:** Python, NumPy, Pandas
-- En este proyecto académico, utilicé Python para procesar y analizar grandes conjuntos de datos. Implementé algoritmos de limpieza, transformación, y generación de informes visuales con herramientas como Matplotlib.
-
-### 3. **Aplicación Móvil Multiplataforma con React Native**
-- **Tecnologías:** React Native, Expo
-- Desarrollé una aplicación móvil multiplataforma que proporciona información meteorológica en tiempo real y notificaciones de alertas. La app consume APIs de terceros para obtener los datos meteorológicos y ofrece una interfaz intuitiva y amigable.
-
----
-
-## 🌱 En constante evolución
-
-Actualmente, estoy profundizando mis conocimientos en **blockchain**, con un enfoque particular en **Solidity** y **Rust**. Me entusiasma el potencial disruptivo que estas tecnologías pueden tener en áreas como las finanzas, la votación y la identidad digital.
+Soy un entusiasta del desarrollo de software con experiencia en **desarrollo web**,**backend**, **blockchain**, y **aplicaciones móviles**. Me dedico al aprendizaje continuo de tecnologías de vanguardia y a mejorar mis habilidades en lenguajes de programación como **Solidity** y **Rust**, que son fundamentales para mi incursión en el desarrollo de contratos inteligentes y tecnologías descentralizadas.
 
 ---
 
 ## 📫 Contacto
-
-¡Estaré encantado de conversar sobre oportunidades de colaboración o responder cualquier duda que tengas!
 
 - 📧 Email: gkggodjihh@gmail.com
 - 💼 LinkedIn: [José Carlos Carballo Fernández](https://www.linkedin.com/in/josé-carlos-carballo-fernández-301509185)
 
 ---
 
-<p align="center">¡Gracias por visitar mi perfil! 🚀</p>
